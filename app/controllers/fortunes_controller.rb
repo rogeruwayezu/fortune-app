@@ -1,0 +1,2 @@
+class FortuneTellerController < ApplicationController
+end
